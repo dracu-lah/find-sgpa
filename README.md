@@ -1,1 +1,1 @@
-# Javascript code find sgpa of one student and multiple students
+# Javascript code find sgpa of one student and multiple students.
